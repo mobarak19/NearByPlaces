@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="A">
+            <menu>
+                <item
+                    android:id="@+id/nav_atm"
+                    android:title="ATM" />
+                <item
+                    android:id="@+id/nav_amusement_park"
+                    android:title="Amusement park" />
+            </menu>
+        </item>
+
+        <item android:title="B">
+            <menu>
+                <item
+                    android:id="@+id/nav_bank"
+                    android:title="Bank" />
+            </menu>
+        </item>
+        <item android:title="C">
+            <menu>
+                <item
+                    android:id="@+id/nav_cafe"
+                    android:title="Cafe" />
+                <item
+                    android:id="@+id/nav_car_rental"
+                    android:title="Car rental" />
+                <item
+                    android:id="@+id/nav_car_wash"
+                    android:title="Car wash" />
+                <item
+                    android:id="@+id/nav_car_repair"
+                    android:title="Car repair" />
+
+                <item
+                    android:id="@+id/nav_church"
+                    android:title="Church" />
+            </menu>
+        </item>
+        <item android:title="D">
+            <menu>
+                <item
+                    android:id="@+id/nav_department_store"
+                    android:title="Department store" />
+                <item
+                    android:id="@+id/nav_dentist"
+                    android:title="Dentist" />
+            </menu>
+        </item>
+        <item android:title="E">
+            <menu>
+                <item
+                    android:id="@+id/nav_electritian"
+
+                    android:title="Electrician" />
+                <item
+                    android:id="@+id/nav_embasy"
+
+                    android:title="Embasy" />
+            </menu>
+        </item>
+        <item android:title="F">
+            <menu>
+                <item
+                    android:id="@+id/nav_fire_station"
+                    android:title="Fire station" />
+                <item
+                    android:id="@+id/nav_furniture_store"
+                    android:title="Furniture store" />
+            </menu>
+        </item>
+        <item android:title="G">
+            <menu>
+                <item
+                    android:id="@+id/nav_gym"
+                    android:title="Gym" />
+                <item
+                    android:id="@+id/nav_gas_station"
+                    android:title="Gas station" />
+
+            </menu>
+        </item>
+        <item android:title="H">
+            <menu>
+                <item
+                    android:id="@+id/nav_hospital"
+                    android:title="Hospital" />
+                <item
+                    android:id="@+id/nav_hindu_temple"
+                    android:title="Hindu temple" />
+                <item
+                    android:id="@+id/nav_home_goods_store"
+                    android:title="Home goods store" />
+
+            </menu>
+        </item>
+        <item android:title="J">
+            <menu>
+                <item
+                    android:id="@+id/nav_jewelry_store"
+                    android:title="Jewelry store" />
+            </menu>
+        </item>
+        <item android:title="L">
+            <menu>
+                <item
+                    android:id="@+id/nav_locksmith"
+                    android:title="Locksmith" />
+                <item
+                    android:id="@+id/nav_laundry"
+                    android:title="Laundry" />
+                <item
+                    android:id="@+id/nav_library"
+                    android:title="Library" />
+
+            </menu>
+        </item>
+        <item android:title="M">
+            <menu>
+                <item
+                    android:id="@+id/nav_museum"
+                    android:title="Museum" />
+                <item
+                    android:id="@+id/nav_mosque"
+                    android:title="Mosque" />
+
+            </menu>
+        </item>
+        <item android:title="P">
+            <menu>
+                <item
+                    android:id="@+id/nav_park"
+                    android:title="Park" />
+                <item
+                    android:id="@+id/nav_parking"
+                    android:title="Parking" />
+                <item
+                    android:id="@+id/nav_pet_store"
+                    android:title="Pet store" />
+                <item
+                    android:id="@+id/nav_pharmacy"
+                    android:title="Pharmacy" />
+                <item
+                    android:id="@+id/nav_physiotherapist"
+                    android:title="Physiotherapist" />
+                <item
+                    android:id="@+id/nav_plamber"
+                    android:title="Plumber" />
+                <item
+                    android:id="@+id/nav_police"
+                    android:title="Police" />
+
+            </menu>
+        </item>
+        <item android:title="R">
+            <menu>
+                <item
+                    android:id="@+id/nav_restaurant"
+                    android:title="Restaurant" />
+            </menu>
+        </item>
+        <item android:title="S">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_school"
+                    android:title="School" />
+                <item
+                    android:id="@+id/nav_supermarket"
+                    android:title="Supermarket" />
+                <item
+                    android:id="@+id/nav_shopping_mall"
+                    android:title="Shopping mall" />
+                <item
+                    android:id="@+id/nav_spa"
+
+                    android:title="Spa" />
+                <item
+                    android:id="@+id/nav_subway_station"
+                    android:title="Subway station" />
+
+
+            </menu>
+        </item>
+        <item android:title="T">
+            <menu>
+                <item
+                    android:id="@+id/nav_travel_agency"
+                    android:title="Travel agency" />
+                <item
+                    android:id="@+id/nav_train_station"
+                    android:title="Train station" />
+
+            </menu>
+        </item>
+    </group>
+
+
+</menu>
